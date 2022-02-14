@@ -1,0 +1,6 @@
+{
+    "sdContextMenuMain": {
+        "message": "Selection Downloader",
+        "description": "Downloads all links from the given selection."
+    }
+}
